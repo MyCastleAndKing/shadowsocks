@@ -25,7 +25,7 @@
 |在线设备数量|**2**|1|**5**|**5**|无限制|
 |IPv6节点|√||||定制|
 |流量配额/月¹|**100GB+**|60GB+|100GB+|100GB+|无限制|
-|备注|**一般情况<br />推荐购买该版本**|适合只偶尔<br />使用的用户|适合使用较频繁且有多<br />个设备同时使用的用户|适合对速度需<br />求较高的用户|**中港专线(5-10Mbps)<br />可以定制带宽**|
+|备注|**一般情况<br />推荐购买该版本**|适合只偶尔<br />使用的用户|适合使用较频繁且<br />有多个设备同时使<br />用的用户|适合对速度需<br />求较高的用户|**中港专线(5-10Mbps)<br />可以定制带宽**|
 |订购链接|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=1)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=4)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=3)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=2)|[立即购买](https://portal.shadowsocks.nl/shadowsocks-enterprise)| 
 
 注1：统计流量 = 实际使用流量 x 节点倍率，所以根据使用的节点的统计倍率 (0.01-2.0) 的不同，可以使用的流量入门版最多可以为 6000GB ，Trojan Lite/高级版/旗舰版为 10000GB
