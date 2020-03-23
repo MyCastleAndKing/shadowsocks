@@ -13,22 +13,20 @@
 
 
 ## 版本区别
-||[**Trojan Lite**](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=1)|[入门版](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=4)|[高级版](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=3)|[旗舰版](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=2)|[企业版](https://portal.shadowsocks.nl/shadowsocks-enterprise)|  
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|协议|**Trojan**|Shadowsocks|Shadowsocks|Shadowsocks|定制|
-|价格（年付）|19.95 澳元|19.95 澳元|79.95 澳元|99.95澳元|2999.95 / 4999.95澳元|
-|价格（月付）|×|×|×|12.95 澳元|299.95 / 499.95澳元|
-|服务器数量|**40+**|10+|15+|20+|定制线路|
+|   |Lite|Pro|企业版|
+|:-:|:-:|:-:|:-:|
+|协议|**Trojan**|**Trojan**|定制|
+|价格（年付）|19.95 美元|99.95美元|2999.95 / 4999.95美元|
+|价格（月付）|×|12.95 美元|299.95 / 499.95美元|
 |普通线路|√|√|√|√|定制服务器|
-|高级线路|||√|√||
-|中转/专线线路|||1|√||
-|在线设备数量|**2**|1|**5**|**5**|无限制|
-|IPv6节点|√||||定制|
-|流量配额/月¹|**100GB+**|60GB+|100GB+|100GB+|无限制|
-|备注|**一般情况<br />推荐购买该版本**|适合只偶尔<br />使用的用户|适合使用较频繁且<br />有多个设备同时使<br />用的用户|适合对速度需<br />求较高的用户|**中港专线(5-10Mbps)<br />可以定制带宽**|
-|订购链接|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=1)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=4)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=3)|[立即购买](https://portal.shadowsocks.nl/cart.php?a=confproduct&i=2)|[立即购买](https://portal.shadowsocks.nl/shadowsocks-enterprise)| 
+|中转/专线线路||√||
+|在线设备数量|2|5|无限制|
+|IPv6节点|√|√|定制|
+|流量配额/月¹|100GB+|100GB+|无限制|
+|备注|适合只偶尔<br />使用的用户|适合使用较频繁且<br />有多个设备同时使<br />用的用户|**中港专线(5-10Mbps)<br />可以定制带宽**|
+|订购链接|[立即购买](https://portal.shadowsocks.nl/cart.php)|[立即购买](https://portal.shadowsocks.nl/cart.php)|[立即购买](https://portal.shadowsocks.nl/cart.php)| 
 
-注1：统计流量 = 实际使用流量 x 节点倍率，所以根据使用的节点的统计倍率 (0.01-2.0) 的不同，可以使用的流量入门版最多可以为 6000GB ，Trojan Lite/高级版/旗舰版为 10000GB
+注1：统计流量 = 实际使用流量 x 节点倍率，所以根据使用的节点的统计倍率 (0.01-2.0) 的不同，可以使用的流量最多可以为  10000GB
 
 ## 注册与购买
 
