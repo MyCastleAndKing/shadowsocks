@@ -24,7 +24,7 @@
 |IPv6节点|√|√|定制|
 |流量配额/月¹|100GB+|100GB+|无限制|
 |备注|适合只偶尔<br />使用的用户|适合使用较频繁且<br />有多个设备同时使<br />用的用户|**中港专线(5-10Mbps)<br />可以定制带宽**|
-|订购链接|[立即购买](https://portal.shadowsocks.nl/cart.php)|[立即购买](https://portal.shadowsocks.nl/cart.php)|[立即购买](https://portal.shadowsocks.nl/cart.php)| 
+|订购链接|[立即购买](https://portal.shadowsocks.nl/cart.php)|[立即购买](https://portal.shadowsocks.nl/cart.php)|[立即购买](https://portal.shadowsocks.nl/cart.php)|
 
 注1：统计流量 = 实际使用流量 x 节点倍率，所以根据使用的节点的统计倍率 (0.01-2.0) 的不同，可以使用的流量最多可以为  10000GB
 
@@ -91,8 +91,6 @@
 ![选择 "你可用的产品/服务"](../assets/images/int-portal-servicespage.png)  
 
 !["下载"](../assets/images/int-portal-dlconfig.png)
-
-!["下载Shadowsocks Windows版本配置文件"](../assets/images/int-portal-dlconfig2.png)
 
 ## 查看节点二维码
 
