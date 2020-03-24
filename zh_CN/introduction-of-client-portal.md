@@ -1,16 +1,13 @@
 # 如何使用我们的[网站](https://portal.shadowsocks.nl)
 
-## 快速检索
 - [如何使用我们的网站](#如何使用我们的网站)
-  - [快速检索](#快速检索)
   - [版本区别](#版本区别)
   - [注册与购买](#注册与购买)
   - [登陆账户](#登陆账户)
   - [查看节点信息](#查看节点信息)
-  - [下载配置文件](#下载配置文件)
-  - [查看节点二维码](#查看节点二维码)
+  - [下载配置文件(Lite/Pro 服务)](#下载配置文件litepro-服务)
+  - [查看节点二维码(Lite/Pro 服务)](#查看节点二维码litepro-服务)
   - [使用教程](#使用教程)
-
 
 ## 版本区别
 |   |Lite|Pro|企业版|
@@ -77,12 +74,12 @@
 
 ![查看你的节点信息](../assets/images/int-portal-productdetail.png)  
 
-## 下载配置文件
+## 下载配置文件(Lite/Pro 服务)
 登陆 [客户中心](https://portal.shadowsocks.nl) ,执行下列操作：
 
 - 单击 “服务” > "我的服务" 。
 
-- 选择 你可用的产品/服务 > "配置文件" > "下载" > "下载 Shadowsocks Windows 版本配置文件"。
+- 选择 你可用的产品/服务 > "配置文件" > "下载" 。
 
 - 即可下载到一个 `gui-config.json` 的文件。
 
@@ -92,7 +89,7 @@
 
 !["下载"](../assets/images/int-portal-dlconfig.png)
 
-## 查看节点二维码
+## 查看节点二维码(Lite/Pro 服务)
 
 登陆 [客户中心](https://portal.shadowsocks.nl) ,执行下列操作：
 
@@ -112,19 +109,6 @@
 - [Windows 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/161/)  
 - [macOS 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/162/)  
 - [Linux 下 Trojan 命令行使用教程](https://portal.shadowsocks.nl/knowledgebase/160/)  
-
-**Shadowsocks:**  
-- [Windows 下安装配置 Shadowsocks 使用教程](../zh_CN/shadowsocks/windows-setup-guide.md)  
-- [macOS 下安装配置 Shadowsocks 使用教程](../zh_CN/shadowsocks/macos-setup-guide.md)  
-- [iOS 下安装配置 Shadowsocks 使用教程](../zh_CN/shadowsocks/ios-setup-guide.md)  
-- [Android 下安装配置 Shadowsocks 使用教程](../zh_CN/shadowsocks/android-setup-guide.md)
-- [Linux 下安装配置 Shadowsocks 使用教程](../zh_CN/shadowsocks/linux-setup-guide.md)
-
-**Shadowsocks & V2ray[Vmess]:**
-* [Windows 下 Clash for Windows 使用教程](../zh_CN/v2ray/clash-for-windows-setup-guide.md)
-* [Windows 下 V2rayN 使用教程](../zh_CN/v2ray/v2ray-win-v2rayN.md)
-* [macOS 下 ClashX 使用教程](../zh_CN/v2ray/clashx-macos-setup-guide.md)
-* [Android 下 V2rayNG 使用教程](../zh_CN/v2ray/v2ray-android-v2rayNG.md)
 
 **浏览器设置：**
 - [Chrome 设置教程 (Proxy SwitchyOmega) ](../zh_CN/browser/chrome-setup-guide.md)
