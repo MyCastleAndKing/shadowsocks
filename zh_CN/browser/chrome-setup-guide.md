@@ -16,7 +16,7 @@
 
 <font color="#FF0000">Chrome / Chromium  72 以上版本不再支持手动安装扩展，如果系统代理无法生效请参考：</font>
 
-[浏览器设置教程 -  无扩展、无系统代理情况下以代理模式启动 Chrome](zh_CN/browser/chrome-start-without-system-proxy.md)
+[浏览器设置教程 -  无扩展、无系统代理情况下以代理模式启动 Chrome](chrome-start-without-system-proxy.md)
 
 ## 扩展的配置
 
