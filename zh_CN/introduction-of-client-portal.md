@@ -1,4 +1,4 @@
-# 如何使用我们的[网站](https://portal.shadowsocks.nl)
+# 如何使用我们的[网站](https://portal.shadowsocks.nz)
 
 - [如何使用我们的网站](#如何使用我们的网站)
   - [版本区别](#版本区别)
@@ -21,14 +21,14 @@
 |IPv6节点|√|√|定制|
 |流量配额/月¹|100GB+|100GB+|无限制|
 |备注|适合只偶尔<br />使用的用户|适合使用较频繁且<br />有多个设备同时使<br />用的用户|**中港专线(5-10Mbps)<br />可以定制带宽**|
-|订购链接|[立即购买](https://portal.shadowsocks.nl/cart.php)|[立即购买](https://portal.shadowsocks.nl/cart.php)|[立即购买](https://portal.shadowsocks.nl/cart.php)|
+|订购链接|[立即购买](https://portal.shadowsocks.nz/cart.php)|[立即购买](https://portal.shadowsocks.nz/cart.php)|[立即购买](https://portal.shadowsocks.nz/cart.php)|
 
 注1：统计流量 = 实际使用流量 x 节点倍率，所以根据使用的节点的统计倍率 (0.01-2.0) 的不同，可以使用的流量最多可以为  10000GB
 
 ## 注册与购买
 
 * 如果没有本站的账号，购买过程中将自动创建账户。
-* 打开 [https://shadowsocks.nl/](https://shadowsocks.nl/)并点击 [Order Now](https://portal.shadowsocks.nl/link.php?id=5)，即可查看我们的产品列表。  
+* 打开 [https://shadowsocks.nz/](https://shadowsocks.nz/)并点击 [Order Now](https://portal.shadowsocks.nz/link.php?id=5)，即可查看我们的产品列表。  
 ![产品列表](../assets/images/int-product-list.png)
 
 * 选择想要购买的服务后点击对应的 **立即订购** ，进入订单概观, 我们以旗舰版为例，选择付款周期后点击继续加入购物车   
@@ -52,7 +52,7 @@
 (我们的结算货币为 USD 美元，您可以选择 Alipay 支付宝使用人民币支付账单)
 
 ## 登陆账户
-登陆 [客户中心](https://portal.shadowsocks.nl) ,执行下列操作：
+登陆 [客户中心](https://portal.shadowsocks.nz) ,执行下列操作：
 
 * 点击右上角 “登入”。  
 * 填写 "Email 地址" 和 “密码” > 点击 “登入”。  
@@ -62,7 +62,7 @@
 ![登陆账户](../assets/images/int-portal-login.png)
 
 ## 查看节点信息
-登陆 [客户中心](https://portal.shadowsocks.nl) ,执行下列操作：  
+登陆 [客户中心](https://portal.shadowsocks.nz) ,执行下列操作：  
 
 - 单击 “服务” > "我的服务" > 选择 "你可用的产品/服务"。
 - 查看你的节点信息。
@@ -74,7 +74,7 @@
 ![查看你的节点信息](../assets/images/int-portal-productdetail.png)  
 
 ## 下载配置文件(Lite/Pro 服务)
-登陆 [客户中心](https://portal.shadowsocks.nl) ,执行下列操作：
+登陆 [客户中心](https://portal.shadowsocks.nz) ,执行下列操作：
 
 - 单击 “服务” > "我的服务" 。
 
@@ -90,7 +90,7 @@
 
 ## 查看节点二维码(Lite/Pro 服务)
 
-登陆 [客户中心](https://portal.shadowsocks.nl) ,执行下列操作：
+登陆 [客户中心](https://portal.shadowsocks.nz) ,执行下列操作：
 
 - 单击 “服务” > "我的服务" > 选择 "你可用的产品/服务"。
 - 查看你的节点信息 > 点击 ”二维码“ 图标，显示二维码。
@@ -103,11 +103,11 @@
 
 ## 使用教程
 **Trojan:**
-- [Trojan 服务自助更换](https://portal.shadowsocks.nl/knowledgebase/152/)
-- [Shadowsocks Portal Trojan 服务设置教程索引(Android / iOS)](https://portal.shadowsocks.nl/knowledgebase/151/)  
-- [Windows 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/161/)  
-- [macOS 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/162/)  
-- [Linux 下 Trojan 命令行使用教程](https://portal.shadowsocks.nl/knowledgebase/160/)  
+- [Trojan 服务自助更换](https://portal.shadowsocks.nz/knowledgebase/152/)
+- [Shadowsocks Portal Trojan 服务设置教程索引(Android / iOS)](https://portal.shadowsocks.nz/knowledgebase/151/)  
+- [Windows 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nz/knowledgebase/161/)  
+- [macOS 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nz/knowledgebase/162/)  
+- [Linux 下 Trojan 命令行使用教程](https://portal.shadowsocks.nz/knowledgebase/160/)  
 
 **浏览器设置：**
 - [Chrome 设置教程 (Proxy SwitchyOmega) ](../zh_CN/browser/chrome-setup-guide.md)

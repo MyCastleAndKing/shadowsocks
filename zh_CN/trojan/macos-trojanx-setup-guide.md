@@ -5,7 +5,7 @@ TrojanX 的使用方法与 ShadowsocksX-NG 基本一致。
 
 ## 1. 下载/安装客户端
 ### 1.1 下载
-前往 技术支持 > 资源下载 > Trojan 进行下载： [TrojanX macOS 客户端(点击下载)](https://portal.shadowsocks.nl/dl.php?type=d&id=98)
+前往 技术支持 > 资源下载 > Trojan 进行下载： [TrojanX macOS 客户端(点击下载)](https://portal.shadowsocks.nz/dl.php?type=d&id=98)
 下载得到 TrojanX-0.2.zip
 
 ### 1.2 安装
@@ -29,7 +29,7 @@ TrojanX 的使用方法与 ShadowsocksX-NG 基本一致。
 
 ## 2. 查看节点信息
 
-登入到客户中心，依次访问 产品服务 > [我的产品与服务(点击前往)](https://portal.shadowsocks.nl/clientarea.php?action=products) ，查看 Trojan 协议对应的 `云加速服务 - Lite` 服务器信息。
+登入到客户中心，依次访问 产品服务 > [我的产品与服务(点击前往)](https://portal.shadowsocks.nz/clientarea.php?action=products) ，查看 Trojan 协议对应的 `云加速服务 - Lite` 服务器信息。
 
 ![trojan-service-details.png](../../assets/images/trojan/trojan-service-details.png)
 

@@ -6,11 +6,11 @@
 
 ## 2. Trojan (Lite / Pro 服务) 客户端设置教程
 
-- [Shadowsocks Portal Trojan 服务设置教程索引(Android / iOS)](https://portal.shadowsocks.nl/knowledgebase/151/)
+- [Shadowsocks Portal Trojan 服务设置教程索引(Android / iOS)](https://portal.shadowsocks.nz/knowledgebase/151/)
 - [macOS 下 TrojanX 使用教程](zh_CN/trojan/macos-trojanx-setup-guide.md)
-- [Windows 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/161/)
-- [macOS 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/162/)
-- [Linux 下 Trojan 命令行使用教程](https://portal.shadowsocks.nl/knowledgebase/160/)
+- [Windows 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nz/knowledgebase/161/)
+- [macOS 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nz/knowledgebase/162/)
+- [Linux 下 Trojan 命令行使用教程](https://portal.shadowsocks.nz/knowledgebase/160/)
 
 ## 3. 浏览器设置教程  
 
